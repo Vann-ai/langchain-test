@@ -1,0 +1,15 @@
+langchain
+openai
+pydantic
+pypdf
+langchain
+python-dotenv
+yt-dlp
+panel
+fastapi
+langserve
+sse_starlette
+tiktoken
+chromadb
+lark
+scikit-learn
