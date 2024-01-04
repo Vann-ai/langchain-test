@@ -2,7 +2,6 @@ langchain
 openai
 pydantic
 pypdf
-langchain
 python-dotenv
 yt-dlp
 panel
